@@ -11,7 +11,7 @@
 
 ---
 
-<h2 style="color:#3F51B5;"> Features</h2>
+<h2 style="color:#3F51B5;">🚀 Features</h2>
 
 <ul>
   <li>✅ Add new tasks</li>
@@ -59,11 +59,11 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>🐦 Flutter</td>
+    <td>Flutter</td>
     <td>Cross-platform UI toolkit for building natively compiled apps</td>
   </tr>
   <tr>
-    <td>🎯 Dart</td>
+    <td>Dart</td>
     <td>Programming language optimized for UI development</td>
   </tr>
 </table>
@@ -99,7 +99,7 @@ This project is licensed under the MIT License. See the <a href="LICENSE">LICENS
 <h2 style="color:#00BCD4;"> Contact</h2>
 
 <p>
-📧 Email: <a href="harshitsingh2807@gmail.com">your-email@example.com</a> <br>
+📧 Email: <a href="mailto:harshitsingh2807@gmail.com">harshitsingh2807@gmail.com</a> <br>
 🌐 GitHub: <a href="https://github.com/harshitsingh070">@harshitsingh070</a>
 </p>
 
