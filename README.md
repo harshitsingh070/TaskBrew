@@ -1,43 +1,108 @@
-# TaskBrew
-<<<<<<< HEAD
+<h1 align="center" style="color:#4CAF50; font-size: 3em;"> TaskBrew</h1>
+<h3 align="center" style="color:#888;">Brew Your Productivity, One Task at a Time!</h3>
 
-## Description
-TaskBrew is a Flutter-based To-Do application that helps users manage their tasks efficiently. With a user-friendly interface, users can add, edit, and delete tasks, ensuring they stay organized and productive.
+---
 
-## Features
-- Add new tasks
-- Edit existing tasks
-- Delete tasks
-- User-friendly interface
+<h2 style="color:#FF5722;"> Description</h2>
 
-## Installation Instructions
-To run TaskBrew locally, follow these steps:
+<p>
+<b>TaskBrew</b> is a Flutter-based To-Do application designed to simplify task management. With a clean and intuitive interface, users can easily add, update, and delete tasks—making productivity an everyday habit.
+</p>
 
-1. Clone the repository:
-   ```bash
-2. Navigate to the project directory:
-   ```bash
-   cd TaskBrew
-   ```
-3. Install the dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the app:
-   ```bash
-   flutter run
-   ```
+---
 
-## Usage
-Once the app is running, you can:
-- Add a new task by clicking the "Add Task" button.
-- Edit a task by selecting it from the list and making changes.
-- Delete a task by swiping it away or using the delete option.
+<h2 style="color:#3F51B5;"> Features</h2>
 
-## Technologies Used
-- Flutter
-- Dart
+<ul>
+  <li>✅ Add new tasks</li>
+  <li>✏️ Edit existing tasks</li>
+  <li>🗑️ Delete tasks with a swipe or button</li>
+  <li>📱 Clean, mobile-first user interface</li>
+</ul>
 
-=======
-TaskBrew is a Flutter-based To-Do application that helps users manage their tasks efficiently. With a user-friendly interface, users can add, edit, and delete tasks, ensuring they stay organized and productive.
->>>>>>> 92b434dae7b297fbf19e3af7ffa3d9deec075248
+---
+
+<h2 style="color:#009688;">🛠 Installation Instructions</h2>
+
+<ol>
+  <li><b>Clone the repository:</b>
+    <pre><code>git clone https://github.com/harshitsingh070/TaskBrew.git</code></pre>
+  </li>
+  <li><b>Navigate to the project directory:</b>
+    <pre><code>cd TaskBrew</code></pre>
+  </li>
+  <li><b>Install the dependencies:</b>
+    <pre><code>flutter pub get</code></pre>
+  </li>
+  <li><b>Run the app:</b>
+    <pre><code>flutter run</code></pre>
+  </li>
+</ol>
+
+---
+
+<h2 style="color:#673AB7;">🧪 Usage</h2>
+
+<ul>
+  <li>➕ Tap the <b>"Add Task"</b> button to create a new task.</li>
+  <li>📝 Tap on a task to edit its title.</li>
+  <li>🗑️ Swipe left or right to delete a task, or use the delete icon.</li>
+</ul>
+
+---
+
+<h2 style="color:#795548;">💻 Tech Stack</h2>
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🐦 Flutter</td>
+    <td>Cross-platform UI toolkit for building natively compiled apps</td>
+  </tr>
+  <tr>
+    <td>🎯 Dart</td>
+    <td>Programming language optimized for UI development</td>
+  </tr>
+</table>
+
+---
+
+<h2 style="color:#607D8B;">📸 Screenshots</h2>
+
+<h3>🏠 Home Screen</h3>
+
+<p align="center">
+  <img src="assets/images/taskbrew.jpg" alt="Home Screen" width="300"/>
+</p>
+
+---
+
+<h2 style="color:#9C27B0;">🤝 Contributing</h2>
+
+<p>
+Contributions are welcome! Feel free to fork the repository and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
+</p>
+
+---
+
+<h2 style="color:#FF9800;">📄 License</h2>
+
+<p>
+This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.
+</p>
+
+---
+
+<h2 style="color:#00BCD4;"> Contact</h2>
+
+<p>
+📧 Email: <a href="harshitsingh2807@gmail.com">your-email@example.com</a> <br>
+🌐 GitHub: <a href="https://github.com/harshitsingh070">@harshitsingh070</a>
+</p>
+
+---
+
+<p align="center">⭐ If you like this project, don’t forget to star it on GitHub!</p>
