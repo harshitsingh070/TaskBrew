@@ -1,4 +1,5 @@
 # TaskBrew
+<<<<<<< HEAD
 
 ## Description
 TaskBrew is a Flutter-based To-Do application that helps users manage their tasks efficiently. With a user-friendly interface, users can add, edit, and delete tasks, ensuring they stay organized and productive.
@@ -37,3 +38,6 @@ Once the app is running, you can:
 - Flutter
 - Dart
 
+=======
+TaskBrew is a Flutter-based To-Do application that helps users manage their tasks efficiently. With a user-friendly interface, users can add, edit, and delete tasks, ensuring they stay organized and productive.
+>>>>>>> 92b434dae7b297fbf19e3af7ffa3d9deec075248
